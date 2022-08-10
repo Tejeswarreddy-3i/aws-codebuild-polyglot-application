@@ -7,7 +7,7 @@ env:
 phases:
   install:
     runtime-versions:
-      nodejs: 10
+      nodejs: 16
       java: corretto17
       python: 3.7
       docker: 18
